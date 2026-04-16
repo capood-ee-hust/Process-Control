@@ -1,10 +1,10 @@
 # Process Control
 # Control Strategies for Two-Tank Systems: PID vs. Intelligent Methods
 ## Table of content
-- [(Overview)]
-- [(Control Strategies)]
-- [(Simulation Results)]
-- [Members of group 5]
+- Overview
+- Control Strategies
+- Simulation Results
+- Members of group 5
 
 ## Overview
 This project focuses on researching and applying the Deep Deterministic Policy Gradient (DDPG) reinforcement learning algorithm to a process control system, specifically a dual-tank water system model. The primary objective is to control the liquid temperature in the second tank ($T_4$) by adjusting the inflow rate ($F_3$).
